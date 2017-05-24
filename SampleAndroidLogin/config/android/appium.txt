@@ -1,0 +1,9 @@
+[caps]
+platformName = "Android"
+deviceName = "Nexus_6_API_23"
+app = "/SampleAndroidLogin/app-debug.apk"
+appActivity = "com.marketlytics.calabashtest/.MainActivity"
+appPackage = "com.marketlytics.calabashtest"
+newCommandTimeout = 300
+[appium_lib]
+port = 4723
